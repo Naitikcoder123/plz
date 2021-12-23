@@ -1,0 +1,19 @@
+#image1 {
+    height:250px;
+    width:250px;
+    margin-right:200px;
+    border-radius:1300px;
+}
+img:hover {
+    transform: scale(0.9);
+}
+body {
+     background-image: radial-gradient( circle farthest-corner at 7.2% 13.6%,  rgba(37,249,245,1) 0%, rgba(8,70,218,1) 90% );
+    color:white;
+}
+#image2  {
+     height:250px;
+    width:250px;
+    border-radius:1000px; 
+    background-color: white;
+}
